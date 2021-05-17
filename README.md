@@ -1,2 +1,3 @@
-# NoParametrica
-Repositoria de proyecto y ejercicios del curso de Estadística No Paramétrica
+# Estadística No Parametrica
+Ejercicios 1:
+Link de Overleaf
